@@ -83,9 +83,9 @@ WRITE SOMETHING HERE ->
 ### 12. \*Pull\* changes from the remote repo.
 1. Open the remote reposistory web page.
 2. Click the pencil icon to edit the README.
-3. Check this checkbox by putting an x between the brackets: [ ] 
-4. Press the green "Commit changes..." button.
-5. Open GitHub Desktop and click "Pull origin" at the top of the screen.
+3. Check this checkbox by putting an x between the brackets: [x] 
+5. Press the green "Commit changes..." button.
+6. Open GitHub Desktop and click "Pull origin" at the top of the screen.
 
 ### 13. Go to an old version. 
 1. In GitHub Desktop, click "History" in the left menu.
